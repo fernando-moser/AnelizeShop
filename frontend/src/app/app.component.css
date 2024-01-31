@@ -1,3 +1,8 @@
 body {
   font-family: Arial, sans-serif;
 }
+
+header {
+  background-color: darkred;
+  height: 15vh;
+}

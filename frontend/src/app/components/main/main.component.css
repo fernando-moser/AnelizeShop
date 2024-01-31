@@ -25,9 +25,14 @@ nav a {
   object-fit: cover;
 }
 
-#imange_1,
-#imange_2 {
-  width: 40%;
-  height: 50vh;
-  object-fit: cover;
+.display-1 {
+  font-size: calc(1.625rem + 4.5vw);
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-2 {
+  font-size: calc(1.575rem + 3.9vw);
+  font-weight: 300;
+  line-height: 1.2;
 }
